@@ -37,7 +37,7 @@ Here are some of my key projects:
 
 ### 📫 Contact Me
 - **Email:** randikasl1234@gmail.com  
-- **LinkedIn:** [Randika Nawarathne](www.linkedin.com/in/randika-nawarathne-b958922a7)  
+- **LinkedIn:** [Randika Nawarathne](www.linkedin.com/in/randikanawarathne)
 - **Portfolio:** [RoughXOfficial.com](https://RoughXOfficial.com)
 
 <!--

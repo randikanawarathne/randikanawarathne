@@ -38,7 +38,7 @@ Here are some of my key projects:
 ### 📫 Contact Me
 - **Email:** randikasl1234@gmail.com  
 - **LinkedIn:** [Randika Nawarathne](www.linkedin.com/in/randikanawarathne)
-- **Portfolio:** [RoughXOfficial.com](https://RoughXOfficial.com)
+- **Portfolio:** [Randika Nawarathne - Portfolio ](https://randikanwarathne.github.io)
 
 <!--
 **randikanawarathne/randikanawarathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
